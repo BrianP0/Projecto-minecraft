@@ -31,6 +31,7 @@ a:hover{
 	height: 90px;
 	background: rgb(43, 226, 95);
 	justify-content: space-around;
+
     
 
 }
@@ -41,7 +42,10 @@ a:hover{
 
 #hero{
 	display: flex;
-	height: 90vh;
+	height: 100vh;
+	width: 100;
 	opacity: 1.6em;
-	background-image: url(media/hero-mc.jpg);
+	/*background-repeat: no-repeat;
+	background-size: contain;*/
+	background-image: url(media/mcpvp.jpg);
 }
