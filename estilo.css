@@ -9,6 +9,7 @@ p{
 	font-size: 1.4em;
 	text-align: center;
 	margin: 30px;
+	color: white;
 
 }
 
@@ -31,7 +32,6 @@ a:hover{
 	height: 90px;
 	background: rgb(43, 226, 95);
 	justify-content: space-around;
-
     
 
 }
@@ -45,7 +45,14 @@ a:hover{
 	height: 100vh;
 	width: 100;
 	opacity: 1.6em;
+	justify-content: center;
+	justify-content: space-evenly;
 	/*background-repeat: no-repeat;
 	background-size: contain;*/
 	background-image: url(media/mcpvp.jpg);
+}
+
+.text-expli{
+	width: 300px;
+	height: 200px;
 }
